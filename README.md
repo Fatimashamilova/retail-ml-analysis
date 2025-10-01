@@ -8,13 +8,13 @@ It demonstrates data wrangling, exploratory data analysis (EDA), and visualizati
 
 The goal is to highlight practical skills in:
 
-Data cleaning and preprocessing
+ - Data cleaning and preprocessing
 
-Exploratory Data Analysis (EDA)
+ - Exploratory Data Analysis (EDA)
 
-Visualization with Matplotlib & Seaborn
+ - Visualization with Matplotlib & Seaborn
 
-Preparing data for potential ML applications
+ - Preparing data for potential ML applications
 
 ⚙️ Installation & Requirements
 1. Install Required Python Packages
