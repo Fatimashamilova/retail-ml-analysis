@@ -1,5 +1,6 @@
 # retail-ml-analysis
 Retail analytics project: Python, Pandas, NumPy, and visualization
+
 📌 Overview
 
 This project analyzes the Myntra Retail Product Catalog using Python.
